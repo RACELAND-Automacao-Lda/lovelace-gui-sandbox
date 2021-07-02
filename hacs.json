@@ -1,4 +1,5 @@
 {
   "name": "gui-sandbox",
-  "render_readme": true
+  "render_readme": true,
+  "filename": "gui-sandbox.js"
 }
